@@ -24,7 +24,7 @@ This API allows you to perform sales analytics on a MongoDB database containing 
 
 ### Base URL
 
-The base URL for this API is `http://localhost:3000/api`.
+The base URL for this API is `https://sales-analytics-ostad.onrender.com/api/v1`.
 
 ## Basic Sales API
 

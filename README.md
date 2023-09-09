@@ -20,7 +20,7 @@ This API provides various endpoints to analyze sales data stored in a MongoDB da
 
 ## Introduction
 
-This API allows you to perform sales analytics on a MongoDB database containing sales data. It provides various endpoints to retrieve valuable insights into your sales data.
+This API allows you to perform sales analytics on a MongoDB database containing sales data. It provides various endpoints to retrieve valuable insights into your sales data. You can run/use/test these API by importing the documentaion in the Postman application by mporting the documentaion file which are attached in reposotory.
 
 ### Base URL
 
